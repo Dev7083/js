@@ -36,19 +36,19 @@ function getWeather() {
                         </h2>
                         <hr>
                         <h4>
-                            🌡️ Temperature
+                             Temperature
                         </h4>
                         <p class="fs-4">
                             ${weather.temperature_2m} °C
                         </p>
                         <h4>
-                            💧 Humidity
+                             Humidity
                         </h4>
                         <p class="fs-4">
                             ${weather.relative_humidity_2m} %
                         </p>
                         <h4>
-                            💨 Wind Speed
+                             Wind Speed
                         </h4>
                         <p class="fs-4">
                             ${weather.wind_speed_10m} km/h
